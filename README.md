@@ -19,7 +19,7 @@ Al ejecutar la script del plan de energía, debes cambiar la siguiente opción y
 
 ## TimerResolution
 
-El programa TimerResolution ayuda a reducir la latencia y el input lag. Lo único que hay que hacer es ejecutarlo de forma normal y establecerlo en "Maximum"
+El programa TimerResolution ayuda a reducir la latencia y el input lag. Lo único que hay que hacer es ejecutarlo de forma normal, establecerlo en "Maximum" y dejarlo MINIMIZADO. Si lo cerramos, no se aplicarán los cambios.
 
 ![image](https://github.com/user-attachments/assets/2cf02263-d077-4c7f-afed-3bd018338d52)
 
