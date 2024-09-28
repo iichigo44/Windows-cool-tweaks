@@ -53,3 +53,7 @@ Cuanto menores sean los números, mejor, ya que significa que tenemos poca laten
 Podemos ignorar el primer item "CPU 0", ya que este es el que más controla nuestro PC y es normal que su número sea elevado.
 
 ![image](https://github.com/user-attachments/assets/2fcf9223-49e4-46ed-b605-c92a9e1ccd69)
+
+## Geek Uninstaller
+
+Este pequeño programa nos ayuda a desinstalar cualquier programa que queramos de nuestro PC, y a demás, eliminará todos los archivos y carpetas que estén relacionados con lo que queramos desinstalar.
