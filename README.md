@@ -1,5 +1,16 @@
 # IMPORTANTE
 
+## ¿Qué hace cada script?
+
+### Eliminar archivos temporales:
+Como su nombre indica, eliminar los archivos inútiles en las carpetas "Temp", "%temp%" y "Prefetch".
+
+### Taskbar Acrylic Opacity:
+Esta función hace que nuestra barra de tareas se vuelva transparente, dejando ver el fondo de pantalla de nuestro PC.
+
+### Máximo rendimiento:
+Crea el plan de energía de máximo rendimiento para nuestro PC.
+
 ## Plan de Energía
 
 Al ejecutar la script del plan de energía, debes cambiar la siguiente opción y ajustarla a "Nunca" para que la pantalla no se apague automáticamente.
