@@ -8,3 +8,12 @@ El programa TimerResolution ayuda a reducir la latencia y el input lag. Lo únic
 
 ![image](https://github.com/user-attachments/assets/2cf02263-d077-4c7f-afed-3bd018338d52)
 
+Las configuraciones de TCPOptimizer son las siguientes:
+
+GENERAL SETTINGS:
+
+![image](https://github.com/user-attachments/assets/1fb449d9-12cf-4472-be06-4003b9b48284)
+
+ADVANCED SETTINGS:
+
+![image](https://github.com/user-attachments/assets/182900ba-0e8c-4c78-98b9-8bb410e2e61b)
