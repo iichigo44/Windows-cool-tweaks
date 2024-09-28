@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fc77f0db-143b-4efb-b233-188f902b8fed)# IMPORTANTE
+# IMPORTANTE
 
 Al ejecutar la script del plan de energía, debes cambiar la siguiente opción y ajustarla a "Nunca" para que la pantalla no se apague automáticamente.
 
